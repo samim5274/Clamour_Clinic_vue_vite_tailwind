@@ -2,6 +2,7 @@
   <TheHeader />
   <TheHero />
   <TheServices />
+  <TheAbout />
 </template>
 
 <script setup>
@@ -11,6 +12,7 @@ import 'aos/dist/aos.css';
 import TheHeader from './components/TheHeader.vue';
 import TheHero from './components/TheHero.vue';
 import TheServices from './components/TheServices.vue';
+import TheAbout from './components/TheAbout.vue';
 
 onMounted(()=>{
   AOS.init();
