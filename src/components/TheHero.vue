@@ -18,7 +18,9 @@
                         Book a Consultation
                     </a>
 
-                    <a href="#services" class="border border-pink-600 text-pink-600 hover:bg-pink-50 text-center px-8 py-3 rounded-full transition" aria-label="Explore our services">Explore Services</a>
+                    <a href="#services" class="border border-pink-600 text-pink-600 hover:bg-pink-50 text-center px-8 py-3 rounded-full transition" aria-label="Explore our services">
+                        Explore Services
+                    </a>
                  </nav>
 
                  <!-- Stats Section -->
